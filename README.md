@@ -13,7 +13,9 @@ This project, created for the Image Processing course final in December 2023 by 
 7. [Pedestrian Recognition](#pedestrian-recognition)
 8. [License Plate Recognition](#license-plate-recognition)
 9. [Conclusion](#conclusion)
-10. [License](#license)
+10. [Additional Documentation](#additional-documentation)
+11. [License](#license)
+    
 
 ## Introduction
 This project implements various image processing techniques to accomplish tasks such as lane detection, enhancing image quality, face recognition, pedestrian recognition, and license plate recognition.
@@ -68,6 +70,10 @@ To run the project, follow these steps:
 
 ## Conclusion
 This project demonstrates the practical application of image processing techniques for various tasks such as lane detection, enhancing image quality, face recognition, pedestrian recognition, and license plate recognition. It showcases the versatility and utility of computer vision algorithms in real-world applications.
+
+
+## Additional Documentation
+- `imageprocessingfinal 1 (1).pdf`: Detailed project report providing in-depth analysis, implementation details, and results.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
