@@ -73,7 +73,7 @@ This project demonstrates the practical application of image processing techniqu
 
 
 ## Additional Documentation
-- [Project Report](imageprocessingfinal_1_1.pdf): Detailed project report providing in-depth analysis, implementation details, and results.
+- [Project Report](Presentation.pdf): Detailed project report providing in-depth analysis, implementation details, and results.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
