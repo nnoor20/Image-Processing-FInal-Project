@@ -3,7 +3,7 @@
 📄 You can read the full project report here: [Presentation.pdf](Presentation.pdf)  
 
 ## Overview
-This project, created for the Image Processing course final in December 2023 by Noora Noor and Christina Chum, focuses on implementing various image processing techniques, including Face Detection, License Plate Detection, and Lane Detection. The project is implemented in Python and utilizes Google Colab, OpenCV, and Matplotlib.
+This project, created in December 2023 by Noora Noor and Christina Chum, focuses on implementing various image processing techniques, including Face Detection, License Plate Detection, and Lane Detection. The project is implemented in Python and utilizes Google Colab, OpenCV, and Matplotlib.
 
 ## Table of Contents
 1. [Introduction](#introduction)
